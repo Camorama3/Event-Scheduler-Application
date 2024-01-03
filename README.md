@@ -26,6 +26,7 @@ www.google.com
 Stack Overflow
 MDN Web Docs Mozilla
 www.reddit.com r/programming r/webdev
+ChatGPT
 
 ## License
 
